@@ -3,37 +3,37 @@
         "id": 1,
         "name": "AKAI MPK mini mk3",
         "price": 119,
-        "imgUrl": "/images/midi-1.jpg" 
+        "imgUrl": "./images/midi-1.jpg" 
     },
     {
         "id": 2,
         "name": "AKAI MPK Mini Play",
         "price": 139,
-        "imgUrl": "/images/midi-2.jpg" 
+        "imgUrl": "./images/midi-2.jpg" 
     },
     {
         "id": 3,
         "name": "AKAI MPK Mini mkII",
         "price": 159,
-        "imgUrl": "/images/midi-3.jpg" 
+        "imgUrl": "./images/midi-3.jpg" 
     },
     {
         "id": 4,
         "name": "AKAI MPK225",
         "price": 269,
-        "imgUrl": "/images/midi-4.jpg" 
+        "imgUrl": "./images/midi-4.jpg" 
     },
     {
         "id": 5,
         "name": "AKAI MPK249",
         "price": 469,
-        "imgUrl": "/images/midi-5.jpg" 
+        "imgUrl": "./images/midi-5.jpg" 
     },
     {
         "id": 6,
         "name": "AKAI MPK261",
         "price": 499,
-        "imgUrl": "/images/midi-6.jpg" 
+        "imgUrl": "./images/midi-6.jpg" 
     },
     {
         "id": 7,
@@ -45,12 +45,12 @@
         "id": 8,
         "name": "AKAI LPK25 Wireless",
         "price": 99,
-        "imgUrl": "/images/midi-8.jpg" 
+        "imgUrl": "./images/midi-8.jpg" 
     },
     {
         "id": 9,
         "name": "APC Key 25",
         "price": 89,
-        "imgUrl": "/images/midi-9.jpg" 
+        "imgUrl": "./images/midi-9.jpg" 
     }
 ]

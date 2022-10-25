@@ -39,7 +39,7 @@
         "id": 7,
         "name": "AKAI LPK25",
         "price": 59,
-        "imgUrl": "/images/midi-7.jpg" 
+        "imgUrl": "./images/midi-7.jpg" 
     },
     {
         "id": 8,
